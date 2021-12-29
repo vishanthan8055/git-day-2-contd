@@ -1,4 +1,14 @@
 SONG - ARTIST
 ============
 SOS-ABBA
+<<<<<<< HEAD
 One of us-ABBA 
+=======
+One of us-ABBA
+He stopped Loving Her Today - Jones
+the race is on-jones
+my sweet lord-harrison
+what is life-harrison
+stoned me - morrison
+caravan-morrison
+>>>>>>> oldies
